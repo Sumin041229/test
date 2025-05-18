@@ -1,0 +1,7 @@
+Display quiz results as percentages and descriptions, remove image
+
+Refactors quiz result display to show category percentages and descriptions; removes image generation and download functionality.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 343bb03c-9e81-4c72-8b92-7a6f443d9836
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/331012df-2bf1-46e0-af88-554d305dc867/67a89521-7257-4b35-a6c3-7cefb5f1d0b9.jpg
